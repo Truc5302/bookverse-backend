@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BookVerse.API/BookVerse.API.csproj" />
+  <Project Path="BookVerse.Application/BookVerse.Application.csproj" />
+  <Project Path="BookVerse.Domain/BookVerse.Domain.csproj" />
+  <Project Path="BookVerse.Infrastructure/BookVerse.Infrastructure.csproj" />
+</Solution>

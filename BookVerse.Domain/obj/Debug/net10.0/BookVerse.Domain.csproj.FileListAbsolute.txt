@@ -1,0 +1,11 @@
+D:\bookverse\bookverse-server\BookVerse.Domain\bin\Debug\net10.0\BookVerse.Domain.deps.json
+D:\bookverse\bookverse-server\BookVerse.Domain\bin\Debug\net10.0\BookVerse.Domain.dll
+D:\bookverse\bookverse-server\BookVerse.Domain\bin\Debug\net10.0\BookVerse.Domain.pdb
+D:\bookverse\bookverse-server\BookVerse.Domain\obj\Debug\net10.0\BookVerse.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\bookverse\bookverse-server\BookVerse.Domain\obj\Debug\net10.0\BookVerse.Domain.AssemblyInfoInputs.cache
+D:\bookverse\bookverse-server\BookVerse.Domain\obj\Debug\net10.0\BookVerse.Domain.AssemblyInfo.cs
+D:\bookverse\bookverse-server\BookVerse.Domain\obj\Debug\net10.0\BookVerse.Domain.csproj.CoreCompileInputs.cache
+D:\bookverse\bookverse-server\BookVerse.Domain\obj\Debug\net10.0\BookVerse.Domain.dll
+D:\bookverse\bookverse-server\BookVerse.Domain\obj\Debug\net10.0\refint\BookVerse.Domain.dll
+D:\bookverse\bookverse-server\BookVerse.Domain\obj\Debug\net10.0\BookVerse.Domain.pdb
+D:\bookverse\bookverse-server\BookVerse.Domain\obj\Debug\net10.0\ref\BookVerse.Domain.dll

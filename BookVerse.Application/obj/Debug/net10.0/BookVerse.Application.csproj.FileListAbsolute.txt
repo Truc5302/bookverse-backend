@@ -1,0 +1,15 @@
+D:\bookverse\bookverse-server\BookVerse.Application\bin\Debug\net10.0\BookVerse.Application.deps.json
+D:\bookverse\bookverse-server\BookVerse.Application\bin\Debug\net10.0\BookVerse.Application.dll
+D:\bookverse\bookverse-server\BookVerse.Application\bin\Debug\net10.0\BookVerse.Application.pdb
+D:\bookverse\bookverse-server\BookVerse.Application\bin\Debug\net10.0\BookVerse.Domain.dll
+D:\bookverse\bookverse-server\BookVerse.Application\bin\Debug\net10.0\BookVerse.Domain.pdb
+D:\bookverse\bookverse-server\BookVerse.Application\obj\Debug\net10.0\BookVerse.Application.csproj.AssemblyReference.cache
+D:\bookverse\bookverse-server\BookVerse.Application\obj\Debug\net10.0\BookVerse.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\bookverse\bookverse-server\BookVerse.Application\obj\Debug\net10.0\BookVerse.Application.AssemblyInfoInputs.cache
+D:\bookverse\bookverse-server\BookVerse.Application\obj\Debug\net10.0\BookVerse.Application.AssemblyInfo.cs
+D:\bookverse\bookverse-server\BookVerse.Application\obj\Debug\net10.0\BookVerse.Application.csproj.CoreCompileInputs.cache
+D:\bookverse\bookverse-server\BookVerse.Application\obj\Debug\net10.0\BookVers.814E0450.Up2Date
+D:\bookverse\bookverse-server\BookVerse.Application\obj\Debug\net10.0\BookVerse.Application.dll
+D:\bookverse\bookverse-server\BookVerse.Application\obj\Debug\net10.0\refint\BookVerse.Application.dll
+D:\bookverse\bookverse-server\BookVerse.Application\obj\Debug\net10.0\BookVerse.Application.pdb
+D:\bookverse\bookverse-server\BookVerse.Application\obj\Debug\net10.0\ref\BookVerse.Application.dll
