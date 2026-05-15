@@ -17,3 +17,4 @@ D:\bookverse\bookverse-server\BookVerse.Infrastructure\obj\Debug\net10.0\refint\
 D:\bookverse\bookverse-server\BookVerse.Infrastructure\obj\Debug\net10.0\BookVerse.Infrastructure.pdb
 D:\bookverse\bookverse-server\BookVerse.Infrastructure\obj\Debug\net10.0\BookVerse.Infrastructure.genruntimeconfig.cache
 D:\bookverse\bookverse-server\BookVerse.Infrastructure\obj\Debug\net10.0\ref\BookVerse.Infrastructure.dll
+D:\bookverse\bookverse-server\BookVerse.Infrastructure\obj\Debug\net10.0\BookVerse.Infrastructure.sourcelink.json
