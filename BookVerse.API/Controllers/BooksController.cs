@@ -11,7 +11,7 @@ namespace BookVerse.API.Controllers;
 
 
 [ApiController]
-[Route("api/books")]
+[Route("api/[controller]")]
 public class BooksController : ControllerBase
 {
     private readonly ApplicationDbContext _context;
